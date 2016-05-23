@@ -1,12 +1,17 @@
 Free Icon Set for files
 ================================
 
-A free icon set with vector images for popular extensions:
-AAC, AI, AIFF, AVI, C, CPP, CSS, DAT, DMG, DOC, EXE, FLV, GIF, H, HPP, HTML,
-ICS, JAVA, JPG, KEY, MID, MP3, MP4, MPG, PDF, PHP, PNG, PPT, PSD, PY, QT,
-RAR, RB, RTF, SQL, TIFF, TXT, WAV, XLS, XML, YML, ZIP.
+Fork of the TeamBox free file icons. Aim is to get the updates into the original repo.
 
-All icons are also offered in 512x512px, 48x48px, 32x32px.
+A free icon set with vector images for popular extensions:
+AAC, AI, AIFF, AVI, C, CPP, CSS, CSV, DAT, DMG, DOC, EPUB, EXE, FLV, GIF, H, 
+HPP, HTML, ICS, JAVA, JPG, KEY, KF8, MID, MOBI, MP3, MP4, MPG, PDF, PHP, PNG, 
+PPT, PSD, PY, QT, RAR, RB, RTF, SQL, TIFF, TXT, WAV, XLS, XML, YML, ZIP.
+
+All icons are also offered in PNG in 512x512px, 256x256px, 128x128px, 48x48px, 32x32px, 16x16px.
+
+Original Teambox Free-File-Icons information
+============================================
 
 These icons are an extract of [Teambox project manager](http://www.teambox.com/ "Project Management").
 Designed for Teambox Technologies S.L. (2009)
